@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science, Python, Analytics, Hadoop, BI...
 - 🌱 I’m currently learning Big Data Analytics with R and Azure ML
 - 📫 How to reach me:
-www.linkedin.com/in/wander-milhomem-franco
+www.linkedin.com/in/wander-milhomem-franco or 
 wander1000@hotmail.com
 
 <!---
